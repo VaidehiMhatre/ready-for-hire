@@ -1,0 +1,7 @@
+{
+  "name": " Ready for Hire: AI Career Prep",
+  "description": "An interactive web application that helps students and job seekers prepare for the tech industry by providing personalized, AI-driven feedback on a series of assessments, including resume reviews, HR questions, voice assessments, and essay writing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
